@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi, I'm Rasel Islam Kajol 👋<br>Currently pursuing a B.Sc. in Computer Science and Engineering at Mawlana Bhashani Science and Technology University.<br>Passionate about software development, problem-solving, and continuous learning.
 
-![Banner](https://github.com/kajolInnovates1/kajolInnovates1/Banner.png?raw=true)
+![Banner](https://github.com/kajolInnovates1/kajolInnovates1/blob/main/Banner.png?raw=true)
+
 
 
 
